@@ -1,6 +1,6 @@
 export default function About() {
   return (
-    <section className="mx-auto max-w-[1440px] px-4 py-10 md:px-6 lg:px-12 xl:px-[156px] bg-white">
+    <section className="mx-auto px-4 py-10 md:px-6 lg:px-12 xl:px-[156px] bg-white">
       <div className="max-w-3xl mx-auto text-sky-900 text-lg">
         <h1 className="text-2xl font-semibold">AAR PLUMBING</h1>
         <p className="my-4">

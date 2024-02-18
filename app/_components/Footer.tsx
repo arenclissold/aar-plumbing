@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer className="mx-auto max-w-[1440px] p-4 md:px-6 lg:px-12 xl:px-[156px] bg-white">
+    <footer className="mx-auto p-4 md:px-6 lg:px-12 xl:px-[156px] bg-white">
       <div className="grid-col-1 my-4 grid gap-4 md:grid-cols-2 md:gap-8">
         <div className="mb-4">
           <h4 className="mb-2 text-xl font-semibold">LOCATION</h4>
